@@ -1,1 +1,1 @@
-# publik
+# project-class
